@@ -1,2 +1,3 @@
 # Banking-System
-Using JDBC connection, these application read/write data of customer with help of SQL Statements
+In this application, we have an access to read & write data with help of SQL Statements.
+All the data is store in database using JDBC connections.
